@@ -14,5 +14,5 @@ img {
   justify-content: center;
   height: 100vh;
   flex-direction: column;
-  background-color: lightpink;
+  background-color: rgba(255, 182, 231, 0.437);
 }
